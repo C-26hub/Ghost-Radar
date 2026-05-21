@@ -139,9 +139,9 @@ Este projeto foi desenvolvido para praticar:
 
 ---
 
-# 👨‍💻 Autor
+# 👩‍💻 Autor
 
-Desenvolvido por C-26hub
+Desenvolvido por Maria Cecília
 
 ---
 
